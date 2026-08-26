@@ -9,6 +9,21 @@
 </a>
 <img src="https://komarev.com/ghpvc/?username=Dew3120&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile views"/>
 
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Software%20Engineering-University%20of%20Plymouth-6C63FF?style=for-the-badge" alt="Software Engineering - University of Plymouth"/>
+<img src="https://img.shields.io/badge/NSBM-Green%20University-1B8A5A?style=for-the-badge" alt="NSBM Green University"/>
+<img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-0A66C2?style=for-the-badge" alt="Full-Stack Development"/>
+<img src="https://img.shields.io/badge/Builds-Clean%20Architecture-111827?style=for-the-badge" alt="Clean Architecture"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Java-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Java Spring Boot"/>
+<img src="https://img.shields.io/badge/C%23-ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C# ASP.NET"/>
+<img src="https://img.shields.io/badge/Flutter-Mobile%20Apps-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter Mobile Apps"/>
+<img src="https://img.shields.io/badge/Database-MySQL%20%7C%20H2-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="Database MySQL and H2"/>
+<img src="https://img.shields.io/badge/Docs-UML%20%7C%20Reports-F59E0B?style=flat-square" alt="UML and Reports"/>
+
 </div>
 
 ---
@@ -45,6 +60,13 @@ I enjoy building practical software that connects a clear user workflow with a m
 <a href="https://github.com/Dew3120/bookwise">
   <img src="https://img.shields.io/badge/BookWise-Spring%20Boot%20Library%20System-6C63FF?style=for-the-badge&logo=springboot&logoColor=white" alt="BookWise Spring Boot Library System"/>
 </a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/github/languages/top/Dew3120/bookwise?style=flat-square&color=ED8B00" alt="BookWise top language"/>
+<img src="https://img.shields.io/github/last-commit/Dew3120/bookwise?style=flat-square&color=6C63FF" alt="BookWise last commit"/>
+<img src="https://img.shields.io/github/repo-size/Dew3120/bookwise?style=flat-square&color=0A66C2" alt="BookWise repo size"/>
+<img src="https://img.shields.io/github/stars/Dew3120/bookwise?style=flat-square&color=F59E0B" alt="BookWise stars"/>
 
 </div>
 
@@ -142,10 +164,6 @@ Key engineering points:
 ### Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dew3120)
-
-<!-- Add your LinkedIn URL here when ready:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
--->
 
 <br/>
 
