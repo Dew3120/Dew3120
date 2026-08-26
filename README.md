@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Thisara+Dewmith;Software+Engineering+Undergraduate;Full-Stack+Developer;Building+Solutions+That+Matter" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=760&lines=Hi%2C+I'm+Thisara+Dewmith;Software+Engineering+Undergraduate;Full-Stack+%26+Mobile+Developer;Building+practical+software+with+clean+architecture" alt="Typing SVG" />
 
 <br/>
 
@@ -22,7 +22,11 @@ education:
   degree: BSc (Hons) Software Engineering
   university: University of Plymouth
   partner_institution: NSBM Green University
-current_year: 2nd Year
+current_focus:
+  - Full-stack web application development
+  - Java Spring Boot and layered architecture
+  - Mobile application development with Flutter
+  - Database-backed systems and clean project documentation
 interests:
   - Full-Stack Web Development
   - Mobile App Development
@@ -30,13 +34,38 @@ interests:
   - Cloud & DevOps
 ```
 
+I enjoy building practical software that connects a clear user workflow with a maintainable backend. My recent work includes Java/Spring Boot systems, ASP.NET applications, Flutter mobile apps, PHP systems, and IoT-based university projects.
+
+---
+
+## Project Spotlight: BookWise
+
+<div align="center">
+
+<a href="https://github.com/Dew3120/bookwise">
+  <img src="https://img.shields.io/badge/BookWise-Spring%20Boot%20Library%20System-6C63FF?style=for-the-badge&logo=springboot&logoColor=white" alt="BookWise Spring Boot Library System"/>
+</a>
+
+</div>
+
+**BookWise** is a university library borrowing system built with Java and Spring Boot. It supports separate Student and Admin roles, secure login, catalog search, book borrowing, returns, and admin book management.
+
+Key engineering points:
+
+- Layered Spring Boot architecture: Controller -> Service -> Repository -> Entity
+- Role-based authentication using Spring Security
+- Server-rendered UI with Thymeleaf
+- Database persistence with Spring Data JPA and H2
+- Transactional borrowing flow with pessimistic locking for copy-count safety
+- Custom exception handling using `@ControllerAdvice`
+- OOP design with encapsulation, inheritance, polymorphism, and clear UML documentation
+
 ---
 
 ## Tech Stack
 
-<div align="center">
-
 ### Languages
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -47,36 +76,47 @@ interests:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks & Libraries
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### Tools & Platforms
+### Databases & Tools
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![H2 Database](https://img.shields.io/badge/H2-1021FF?style=for-the-badge&logo=databricks&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 ---
 
 ## Featured Projects
 
-<div align="center">
-
 | Project | Tech | Description |
-|---------|------|-------------|
-| [**BlindMatchPAS**](https://github.com/Dew3120/BlindMatchPAS) | C# / ASP.NET | Blind matching system with DI, service layers & unit testing |
-| [**Cartier Mobile App**](https://github.com/Dew3120/PUSL2023-Mobile-App-Development--Group-project) | Flutter / Dart | E-commerce app with cart, payments & wishlist |
-| [**Warehouse Management**](https://github.com/Dew3120/PUSL2021-Computing-Group-Project) | Java | Apparel inventory & logistics management system |
-| [**Smart Building IoT**](https://github.com/Dew3120/PUSL2022-Introduction-to-IOT) | IoT | Smart building automation & energy management |
-| [**Water Billing System**](https://github.com/Dew3120/IMR-Water-Billing-System) | PHP | Integrated water billing & information system |
+| --- | --- | --- |
+| [**BookWise Library System**](https://github.com/Dew3120/bookwise) | Java / Spring Boot / Spring Security / JPA / Thymeleaf | Role-based library borrowing system with transactional borrowing, custom rules, admin catalog management, and UML-backed documentation. |
+| [**BlindMatchPAS**](https://github.com/Dew3120/BlindMatchPAS) | C# / ASP.NET | Blind matching system with dependency injection, service layers, and unit testing. |
+| [**Cartier Mobile App**](https://github.com/Dew3120/PUSL2023-Mobile-App-Development--Group-project) | Flutter / Dart | E-commerce mobile app with cart, payments, wishlist, and product browsing workflows. |
+| [**Warehouse Management**](https://github.com/Dew3120/PUSL2021-Computing-Group-Project) | Java | Apparel inventory and logistics management system for warehouse operations. |
+| [**Smart Building IoT**](https://github.com/Dew3120/PUSL2022-Introduction-to-IOT) | IoT | Smart building automation and energy management project. |
+| [**Water Billing System**](https://github.com/Dew3120/IMR-Water-Billing-System) | PHP | Integrated water billing and information management system. |
 
-</div>
+---
+
+## What I Care About When Building
+
+- Clear user workflows before writing code
+- Maintainable layered architecture
+- Secure handling of user identity and roles
+- Database consistency and transaction safety
+- Clean documentation that explains design decisions, not just code output
 
 ---
 
@@ -101,11 +141,14 @@ interests:
 
 ### Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dew3120)
+
+<!-- Add your LinkedIn URL here when ready:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+-->
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%" alt="Footer wave"/>
 
 </div>
